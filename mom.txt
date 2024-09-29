@@ -1,0 +1,78 @@
+
+Date 29th sept , 2024
+
+GIT GITHUB 
+
+Q-GIT- TOOL/SOFTWARE 
+GITHUB - WEBSITE 
+
+
+-------------------------
+
+XYZ COMP INDIA 
+
+Project - chat apps 
+
+1-Froneend
+2-backend
+3-testing
+4-server 
+
+1-frontend- subteam (ft1,ft2,ft3)
+2-backend -subteam (bt1,bt2)
+3-Testing - subteam (Manual testing team , automation testing team)
+4-server (st1 ,st2)
+
+ft1- feature - ft2-feature 
+
+
+git - version controlling TOOL
+
+Project-chat apps
+1- Chat version 1
+2- voice call - version 2.0
+3- video call - version 3.0
+4- chat remove - version 4.0
+
+
+ABC COMP US
+1-frontend- subteam (ft1,ft2,ft3)
+2-backend -subteam (bt1,bt2)
+3-Testing - subteam (Manual testing team , automation testing team)
+4-server (st1 ,st2)
+
+
+INDIA - DEV TEAM - CODE - ZIP- DRIVE - LINK - US TEAM --- UNZIP- OLD CODE BASE - PASTE 
+US TEAM - CODE - FEATURE - ZIP- DRIVE - LINK - INDIA - UNZIP - CODEOLD BASE - PASTE 
+
+
+1-Repo/Repository - new folder
+2- commit - save
+3-fork - complete copy 
+4-branch 
+
+
+step1 - install and download git 
+test - cmd git -v 
+
+step 2 - github account 
+
+
+STEP 3- 
+
+
+
+git 
+
+step1 - downlaod install
+step 2 - git tool - configure
+
+git config --global user.name 
+naam"
+git config --global user.email "EMAIL"
+
+Tets - git config --list
+
+
+step 3- git init 
+
